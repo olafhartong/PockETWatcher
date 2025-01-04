@@ -3,6 +3,7 @@
 A tiny program to consume an ETW provider, for research purpose mostly.
 
 Command line options:
+```
   -complete
         Output complete event information
   -eventIds string
@@ -11,6 +12,7 @@ Command line options:
         File to write the trace output
   -provider string
         ETW provider name or GUID
+```
 
 You need to supply a provider name or GUID, the rest is optional.
 
