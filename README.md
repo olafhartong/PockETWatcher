@@ -73,3 +73,14 @@ PP       oooo   ccccc kk  kk EEEEEEE   TTT     WW   WW   aaa aa  tttt  ccccc hh 
 }
 2025/01/04 22:07:57 [~] Shutting down... Bye! 👋
 ```
+
+### Note
+This tool has been explicitly built to be super basic.
+
+There are way more mature tools;
+
+* (Sealighter)[https://github.com/pathtofile/Sealighter]
+* (ETWInspector)[https://github.com/jsecurity101/ETWInspector]
+* (SilkETW)[https://github.com/mandiant/SilkETW]
+
+These tools are amazing. I just needed something fast and with basic CLI output while doing research on providers and certain events. This was just easier than reconfiguring them constantly.
